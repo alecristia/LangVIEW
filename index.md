@@ -32,8 +32,15 @@ To join the mailing list:
 
 
 ### Current steering board
+- Paulina Aravena Bravo
 - Janet Bang
+- Titia Benders
 - Marisa Casillas
 - Alejandrina Cristia
 - Mike Frank
+- Ewa Haman
+- Eon-Suk Ko
+- Ramona Kunene Nicolas
 - Caroline Rowland
+- Hannah Sarvasy
+- Andrew Ssemata

@@ -40,6 +40,7 @@ To join the mailing list:
 - Mike Frank
 - Ewa Haman
 - Eon-Suk Ko
+- Shoba Meera
 - Ramona Kunene Nicolas
 - Caroline Rowland
 - Hannah Sarvasy

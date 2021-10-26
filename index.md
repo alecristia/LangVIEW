@@ -1,6 +1,6 @@
 ## LangVIEW
 
-The Consortium on Language Variation in Input Environments around the World (LangVIEW for short) is a network of students and researchers interested in how children use their language experiences to learn about their native language(s). 
+The Consortium on Language Variation in Input Environments around the World (LangVIEW for short) is a network of students and other researchers interested in how children use their language experiences to learn about their native language(s). 
 
 We have a mailing list (~1 email/month) and a monthly scientific seminar (an online talk). Nothing is mandatory, and the hope is that people take out much more than they put in (e.g., they can more easily present their work at symposia).
 

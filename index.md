@@ -15,9 +15,13 @@ Here's why it is beneficial to join:
 
 ### How to join our mailing list
 
+*If you have a google-registered address*:
 1. Make sure you're signed in to google
 2. Visit https://groups.google.com/forum/#!forum/langview
 3. Click on "Apply for membership"
+
+*If you don't*:
+Email alecristia@gmail.com (but please prefer the former route to avoid contributing to email overload!)
 
 ## Our mission
 
